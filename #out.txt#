@@ -1,0 +1,5 @@
+yt Given features: 
+{'eta': <tf.Tensor 'Const_4:0' shape=(4237,) dtype=float64>, 'pt': <tf.Tensor 'Const_3:0' shape=(4237,) dtype=float64>, 'njets': <tf.Tensor 'Const_5:0' shape=(4237,) dtype=float64>}, 
+
+required signatures: 
+{'eta': TensorSignature(dtype=tf.float64, shape=TensorShape([Dimension(427604)]), is_sparse=False), 'pt': TensorSignature(dtype=tf.float64, shape=TensorShape([Dimension(427604)]), is_sparse=False), 'njets': TensorSignature(dtype=tf.int64, shape=TensorShape([Dimension(427604)]), is_sparse=False)}.
